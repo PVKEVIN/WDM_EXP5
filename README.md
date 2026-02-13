@@ -1,4 +1,6 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
+## Name: Kevin P 
+## Register Number: 212224040159
 ### DATE: 
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
@@ -132,4 +134,16 @@ if __name__ == "__main__":
 ```
 ### Output:
 
+<img width="1353" height="508" alt="image" src="https://github.com/user-attachments/assets/197f99c3-5e59-47e4-a357-30ae4876e723" />
+
+
+<img width="1222" height="410" alt="image" src="https://github.com/user-attachments/assets/954bcaa5-7eb3-42bc-a357-fa2f7789207d" />
+
+
+<img width="1222" height="410" alt="image" src="https://github.com/user-attachments/assets/462aadf6-306c-4242-8fc2-179c575269d2" />
+
+
+
 ### Result:
+
+The Boolean Information Retrieval model was successfully implemented in Python, and relevant documents were retrieved correctly using AND, OR, and NOT operators based on the user’s query.
