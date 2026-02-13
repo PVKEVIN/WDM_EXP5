@@ -1,7 +1,7 @@
 # EX5 Information Retrieval Using Boolean Model in Python
 ## Name: Kevin P 
 ## Register Number: 212224040159
-### DATE: 
+### DATE: 13.02.2026
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
